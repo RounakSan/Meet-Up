@@ -6,3 +6,5 @@ const port = 3000;
 
 // Server Side
 app.listen(port);
+
+connsole.log("Hello");
